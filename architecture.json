@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-philosophical-dialogue-individual-collective",
+  "title": "The Sankofa Argument",
+  "tagline": "A forgotten artifact holds the voice of a revolution, forcing a disillusioned philosopher and his brilliant protégé to confront the unfinished debate between individual freedom and collective destiny.",
+  "target_words": 70000,
+  "actual_words": 69056,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unfinished Revolution",
+    "Memory as a Contested Artifact",
+    "The Burden of Intellectual Retreat",
+    "Dialectics of Rain and Soil"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Delivery",
+      "words": 2877
+    },
+    {
+      "ch": 2,
+      "title": "The Artifact Unwrapped",
+      "words": 2850
+    },
+    {
+      "ch": 3,
+      "title": "The Voice from the Room",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The First Stone",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "Shadows from Kumasi",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Grammar of Disillusion",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "Ama's Map",
+      "words": 2750
+    },
+    {
+      "ch": 8,
+      "title": "The Collective's Keepers",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Tailor's Shop",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "Pentecostal Counterpoint",
+      "words": 2700
+    },
+    {
+      "ch": 11,
+      "title": "The University Archives",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "The Football Commentary",
+      "words": 2600
+    },
+    {
+      "ch": 13,
+      "title": "Yaw's Flight",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Kofi Mensah's Silence",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Philosophy and Chop Bar",
+      "words": 2750
+    },
+    {
+      "ch": 16,
+      "title": "Droplet or Current?",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Wax Print Code",
+      "words": 2850
+    },
+    {
+      "ch": 18,
+      "title": "A Theory of Ground",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Men Who Follow",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "Listening in the Rain",
+      "words": 2800
+    },
+    {
+      "ch": 21,
+      "title": "The Argument Materialized",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Pathologist's Choice",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "Channeling the Flood",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "Who Carries the Dream?",
+      "words": 2879
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Kwame and Ama listen to the artifact's recording for the first time, revealing a pivotal but forgotten speech from the independence era.",
+      "Create a monologue from the perspective of Kofi Mensah in his 'containment,' explaining why he chose Kwame as the artifact's keeper.",
+      "Write a scene where Ama uses her diagrammatic logic to decode a hidden pattern or message in the wax print cloth itself.",
+      "Develop a confrontation at the Philosophy and Chop Bar between Kwame and one of the 'other men' who followed Yaw, turning a philosophical debate into a tense, real-world negotiation."
+    ],
+    "technical": [
+      "Build an interactive 'Argument Map' website that visualizes the novel's core philosophical debate, allowing users to trace the dialogue between individual and collective positions through quoted text.",
+      "Create an AI-assisted 'Sankofa Archive' tool that lets users upload descriptions of personal or historical artifacts and generates a short story about the 'unfinished argument' that object embodies."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Simone de Beauvoir",
+      "Kwame Nkrumah",
+      "James Baldwin"
+    ]
+  },
+  "cover_prompt": "A weathered African philosopher, his face etched with the deep lines of retreat and reawakening, holds a cracked, ancient terracotta head that emits a faint, ethereal glow, while his intense young protégé leans in, her expression a mix of skepticism and awe as spectral whispers of historical debate swirl around their hands, set within the hushed, rain-streaked interior of a mid-century university archive in a post-independence capital, where shelves of neglected manuscripts are illuminated by a single desk lamp and the stormy twilight from a tall window, in the atmospheric style of Kadir Nelson and Kent Monkman, blending monumental figurative presence with layered symbolic storytelling, book cover framing, centered and intimate composition viewed from a low angle to emphasize the weight of the artifact and the tension between the two figures, dramatic chiaroscuro lighting where the warm, golden glow of the artifact and lamp battles the cool, blue-grey shadows of the storm and forgotten history, color palette of rich umbers, ochres, and burnt sienna contrasted against steely blues and the vibrant spectral gold of memory, masterpiece, best quality, ultra detailed, intricate details of rain on glass, textured terracotta, and fabric folds, professional composition, sharp focus, 8k resolution, flux dev."
+}
