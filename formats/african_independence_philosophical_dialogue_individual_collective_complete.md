@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The rain came down like it was trying to erase the city. It wasn’t the gentle, forgiving rain of the highlands, the kind that whispers to the soil. This was Accra rain, a warm, vertical torrent that hammered the corrugated iron roofs of Nima into a deafening roar and turned the ochre earth of the streets into a thick, clinging soup. It smelled of wet concrete, diesel, and the faint, sweet decay of mangoes rotting in the gutter.
+"Does the anthill remember the individual ant?" Professor Nkrumah asked, not looking up from his chessboard. The pieces were carved from ivory and ebony—a gift from a colonial administrator who didn't understand the irony. Outside, students protested the new campus restrictions, their chants muffled by teak doors. His opponent, Dr. Mensah, moved a bishop. "The hill persists. The ant does not." "But what of the ant that discovers a new food source? That finds a path around the obstacle?" Nkrumah captured a pawn. "Her discovery becomes the hill's knowledge. She disappears; her solution remains." Mensah smiled, a thin crack in a weathered face. "So the collective is just a cemetery of individual innovations?" "No. A library." The protest sounds grew louder. Someone was beating a drum. "And if the library burns?" "Some books are memorized." Nkrumah advanced his queen. "By whom?" "By the next generation of ants. Or the wind. Or the soil." Mensah studied the board. "You're arguing for inevitable progress." "I'm arguing for inevitable change. Whether it's progress depends on who writes the history." A rock hit the window, leaving a spiderweb crack in the glass. Neither man flinched. "Check," said Nkrumah. "The individual move matters." "But the game continues," Mensah replied, "with or without us."
+
 
 Professor Kwame Nkrumah Appiah—Kwame to his students, Appiah to his colleagues, and ‘The Professor’ to just about everyone else—stood under the leaking awning of his usual spot, the *Philosophy and Chop Bar*, watching the water sheet off the edge. He held a cold bottle of Club Beer, the condensation mixing with the damp in the air. The bar was a stubborn concrete box wedged between a tailor’s shop and a Pentecostal church, its sign hand-painted with a chipped image of Socrates, looking vaguely Akan, holding a kente cloth and a kebab stick.
 
@@ -112,6 +115,8 @@ The rain was slackening. The roar diminished to a patter. Kwame stood, placing s
 He tucked the bundled tape into his worn satchel, next to his marked-up copies of Fanon and Wiredu. The past now lay beside the present, a silent, magnetic passenger. Together, he and Ama stepped out of the awning’s shelter and into the dripping, uncertain city.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The linguistics department smelled of dust and forgotten paper. It was housed in a 1960s concrete block on the university’s outskirts, a building that had once aspired to be modern and now just looked tired. At this hour, past nine, the corridors were empty, lit by the sickly glow of intermittent fluorescent tubes that buzzed like angry insects.
@@ -225,6 +230,8 @@ Kwame looked up at the night sky, scattered with stars the city lights couldn’
 The conversation had found them. And now, they had to decide whether to answer.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The safe house was a bookshop. Not a metaphor—a literal, dusty, wonderful maze of a bookshop called *The Threadbare Atlas*, tucked down an alley near the old polo grounds. It was owned by Selasi, a man of immense girth and even more immense silence, who had been a friend of Kwame’s father. Selasi communicated mostly in grunts, nods, and the eloquent placement of books. He asked no questions when Kwame, with Ama in tow, appeared at his back door just after dawn. He simply led them through a canyon of teetering shelves to a small, windowless back room that smelled of paper, glue, and peace.
